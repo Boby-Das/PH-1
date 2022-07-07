@@ -1,0 +1,12 @@
+.first-section
+{
+    background-image: url(images/donation1.jpg);
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+
+.donate-now
+{
+    display: flex;
+}
